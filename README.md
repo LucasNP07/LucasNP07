@@ -10,9 +10,11 @@
 <h3> Residente em Araguari-MG/Brasil.</h3>
 <p align="center">Após o bacharelado em Direito, descobri o interesse pela área da tecnologia e programação de softwares. De agora em diante vocês poderão acompanhar os passos de algúem que deixou sua área de formação para se aventurar no mundo dos dados. </p>
 <p align="center">VAMOS JUNTOS!</p> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasNP07&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="LucasNP07" /> </p>
-
+<div>
+    <a href="https://github.com/LucasNP07">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasNP07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNP07&layout=compact&langs_count=16&theme=chartreuse-dark"/> </a>
+</div>
 
 - 🏢 Já trabalhei na Defensoria Pública de Minas Gerais (DPMG), Tribunal de Justiça de Minas Gerais (TJMG) e na SAE-Araguari (Autarquia Municipal).
 - ✔️ Atualmente estou procurando vagas para Dev. Jr.
