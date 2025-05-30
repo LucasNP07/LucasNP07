@@ -19,11 +19,11 @@
 <br />
 <div>
     <a href="https://github.com/LucasNP07">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasNP07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LucasNP07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
     <img 
       align="right" 
       alt="GitHub Stats" 
-      height="150" 
+      height="140" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnp07&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />   
   </a>
