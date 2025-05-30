@@ -20,7 +20,8 @@
 <div>
     <a href="https://github.com/LucasNP07">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LucasNP07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNP07&layout=compact&langs_count=16&theme=chartreuse-dark"/> </a>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNP07&layout=compact&langs_count=16&theme=chartreuse-dark"/> 
+    </a>
 </div>
 
 ##
