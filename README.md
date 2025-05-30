@@ -12,8 +12,8 @@
 <p align="center">VAMOS JUNTOS!</p> 
 <div>
     <a href="https://github.com/LucasNP07">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasNP07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNP07&layout=compact&langs_count=16&theme=chartreuse-dark"/> </a>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasNP07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNP07&layout=compact&langs_count=16&theme=chartreuse-dark"/> </a>
 </div>
 
 - 🏢 Já trabalhei na Defensoria Pública de Minas Gerais (DPMG), Tribunal de Justiça de Minas Gerais (TJMG) e na SAE-Araguari (Autarquia Municipal).
@@ -29,10 +29,11 @@
 [![Minhas habilidades](https://skillicons.dev/icons?i=html,css)]()
 
 
-<h3 align="left">Entre em contato comigo:</h3>
+<h3 align="left">Outras formas de contato:</h3>
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-nery-3376432a3 )
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lucasnery-2010@hotmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lucas_neryp/)
 
+  
 
