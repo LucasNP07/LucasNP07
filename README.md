@@ -36,6 +36,7 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-nery-3376432a3 )
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lucasnery-2010@hotmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lucas_neryp/)
+[![image](https://github.com/user-attachments/assets/cbac15ac-0577-4c44-8ab5-fc0e65e5985e)](https://wa.me/5534992653981?text=Ol%C3%A1,+Lucas!+Podemos+conversar?)
 
 </div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
