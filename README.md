@@ -32,7 +32,7 @@
 ##
 <h3 align="left"> Minhas Linguagens e Ferramentas:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=html,css)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=html,css,python)]()
 
 ##
 
