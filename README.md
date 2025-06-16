@@ -12,7 +12,7 @@
 
 # *Biografia*
 
-> *Sou graduado em Direito e trabalhei na área por mais de 02 anos. Após o bacharelado, descobri o interesse pela tecnologia e Análise de Dados, área na qual dedico minha vida profissional.
+> *Sou formado em Direito e trabalhei na área por mais de 02 anos. Após o bacharelado, descobri o interesse pela tecnologia e Análise de Dados, área na qual dedico minha vida profissional.
 > Sou movido por desafios e estou sempre em busca de novas oportunidades para aplicar tecnologia com propósito e impacto real. 
 > Tenho disponibilidade para trabalhar em qualquer modelo que a empresa ofertar: presencial, híbrido ou remoto.*
 
