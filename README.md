@@ -3,7 +3,7 @@
 
 </div>
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Bem-vindo,+sou+o+Lucas!;Futuro+Full+Stack" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Bem-vindo,+sou+o+Lucas!;Analista+de+Dados" alt="Headline" />
 </div>
 
 <h1 align="center"></h1>
@@ -12,8 +12,8 @@
 
 # *Biografia*
 
-> *Sou graduado em Direito no IMEPAC. Trabalhei na Defensoria Pública de Minas Gerais (DPMG), Tribunal de Justiça de Minas Gerais (TJMG) e na SAE-Araguari (Autarquia Municipal).
-> Após o bacharelado em Direito, descobri o interesse pela área da tecnologia e programação de softwares. De agora em diante vocês poderão acompanhar os passos de algúem que deixou sua área de formação para se aventurar no mundo dos dados. 
+> *Sou graduado em Direito e trabalhei na área por mais de 02 anos. Após o bacharelado, descobri o interesse pela tecnologia e Análise de Dados, área na qual dedico minha vida profissional.
+> Sou movido por desafios e estou sempre em busca de novas oportunidades para aplicar tecnologia com propósito e impacto real. 
 > Tenho disponibilidade para trabalhar em qualquer modelo que a empresa ofertar: presencial, híbrido ou remoto.*
 
 <br />
@@ -32,7 +32,7 @@
 ##
 <h3 align="left"> Minhas Linguagens e Ferramentas:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=html,css,python)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=html,css,python,powerbi,sql,excel)]()
 
 ##
 
